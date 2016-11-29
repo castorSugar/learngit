@@ -26,5 +26,7 @@
 ### 安装
 
 *mac预装，window自装，这里讲window的*
-1. 到官方站点<a href="https://git-for-windows.github.io/" target="_blank">msysGit</a>或者通过各种软件中心、安全卫士（速度快）下载最新版本。该书以这软件作为操作，命令行为主。
-2. 图形工具，可以使用GitHub官方软件<a href="https://desktop.github.com/" target="_blank">GitHub Desktop</a>或者第三方软件如<a href="https://www.sourcetreeapp.com/" target="_blank">sourcetree</a>来进行，不过还需学习命令行方式进行运用。
+1. 到官方站点<a href="https://git-for-windows.github.io/" target="_blank">msysGit</a>或者通过各种软件中心、安全卫士（速度快）下载最新版本。该书以这软件作为操作，命令行为主。如果设置好后，也可以使用<a href="http://www.cygwin.com/" target="_blank">cygwin</a>(window平台类UNIX模拟环境)进行操作。
+2. 图形工具，可以使用GitHub官方软件<a href="https://desktop.github.com/" target="_blank">GitHub Desktop</a>或者第三方软件如<a href="https://www.sourcetreeapp.com/" target="_blank">sourcetree</a>（速度快）来进行，不过还需学习命令行方式进行运用。
+
+### 初始化
