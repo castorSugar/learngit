@@ -254,4 +254,5 @@ git diff HEAD命令，查看本次提交与上次提交之间有什么差别，�
 
          second commit
 ### 分支的操作
-#### git branch——显示分支一览表
+#### git branch--显示分支一览表
+#### git checkout--转换分支
